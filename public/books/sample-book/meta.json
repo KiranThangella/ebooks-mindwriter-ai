@@ -1,0 +1,10 @@
+{
+  "id": "sample-book",
+  "title": "Quantum Mind: The Next Frontier",
+  "author": "Dr. Sarah Chen",
+  "description": "An exploration into the deep connections between quantum mechanics and human consciousness.",
+  "moods": ["Curious", "Philosophical", "Focused"],
+  "categories": ["Science", "Philosophy"],
+  "pages": 142,
+  "publishedAt": "2025-10-14"
+}

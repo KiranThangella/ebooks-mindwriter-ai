@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MindWriter Ebook Store",
+  "description": "Modern scalable ebook store with mood-based recommendations and an integrated mobile-optimized reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
